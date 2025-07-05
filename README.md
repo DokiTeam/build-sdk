@@ -1,7 +1,7 @@
 ## Set up SDK for building Kotatsu
 
 This is a codespace repository configured to install Android
-development tools (for building Kotatsu app)
+development tools (for building Doki app)
 
 ## Installed Software
 
@@ -14,7 +14,7 @@ development tools (for building Kotatsu app)
 
 To import as a submodule use 'git submodule add'
 
-    git submodule add https://github.com/KotatsuApp/build-sdk .devcontainer
+    git submodule add https://github.com/DokiApp/build-sdk .devcontainer
 
 In theory it is possible to add access to additional
 repositories within a codespace using 'customizations'
