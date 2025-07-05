@@ -1,4 +1,4 @@
-## Set up SDK for building Kotatsu
+## Set up SDK for building Doki
 
 This is a codespace repository configured to install Android
 development tools (for building Doki app)
